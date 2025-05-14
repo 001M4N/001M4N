@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @001M4N
 - 👀 I’m interested in front-end development.
-- 💞️ I’m looking to collaborate on front end projects.
+- 💞️ I’m looking to collaborate on frontend projects.
 
 <h3>
   My Development Toolkit:
@@ -40,6 +40,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>
   </a>
 </p>
