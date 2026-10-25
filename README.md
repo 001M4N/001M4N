@@ -1,4 +1,4 @@
-# Hey, I'm Iman 👋
+# Hey, I'm Iman
 
 I'm a full-stack developer who enjoys building things with code, especially on the backend and in AI. I mostly work with Python and love exploring how AI can be used to build useful, real-world applications.
 
